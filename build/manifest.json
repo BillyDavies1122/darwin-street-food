@@ -1,0 +1,20 @@
+{
+    "name": "Darwin Food vans",
+    "short_name": "Food Vans",
+    "icons":[
+        {
+            "src": "images/logo-60x50.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "images/logo-60x50.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#FFF",
+    "theme_color": "#123557"
+}
